@@ -1,0 +1,21 @@
+{
+  "name": "auto-dismissal-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "papaparse": "5.1",
+    "angular": "1.8.0",
+    "qlite3": "5.0.0",
+    "lodash": "4.16",
+    "vm2": "3.9.14",
+    "Sequelize": "6.18.0"
+  },
+  "devDependencies" : {
+    "debug": "2.6.9",
+    "ua-parser-js": "0.7.32",
+    "engine.io": "3.6.0",
+    "IS-SVG": "2.1.0",
+    "flat": "5.0.0",
+    "electron": "19.0.0",
+    "loader-utils": "1.0.0"
+  }
+}
